@@ -1,5 +1,5 @@
 
-  <img src="blob:https://web.whatsapp.com/2fdfd3e7-7880-4652-8df6-978c276d263e" width="250px"/>
+  <img src="https://github.com/user-attachments/assets/a6132c9a-e9cc-4036-babb-76303662b8a1" width="250px"/>
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
