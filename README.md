@@ -1,4 +1,4 @@
-<div align = center >
+<div  >
   <img src="https://github.com/user-attachments/assets/a6132c9a-e9cc-4036-babb-76303662b8a1" width="250px"/>
 <div/>
 # Welcome to your Expo app 👋
