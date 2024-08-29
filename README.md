@@ -1,5 +1,5 @@
 
-  <img src="https://raw.githubusercontent.com/LucasAlme/help-desk/main/src/assets/images/helpDeskLogin.jpeg" width="250px"/>
+  <img src="blob:https://web.whatsapp.com/2fdfd3e7-7880-4652-8df6-978c276d263e" width="250px"/>
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
