@@ -1,6 +1,6 @@
 <div align = center >
   <img src="https://github.com/user-attachments/assets/a6132c9a-e9cc-4036-babb-76303662b8a1" width="250px"/>
-  <div/>
+<div/>
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
