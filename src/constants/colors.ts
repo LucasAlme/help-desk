@@ -7,4 +7,7 @@ export const colors = {
   purple: "#6100ff",
   green: "#4B830D",
   borderInput: "#dee0ea",
+  descriptionTitle: "#a4a7b2",
+  allFilter: "#383b43",
+  openFilter: "#ff366a",
 };
