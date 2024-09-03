@@ -1,5 +1,8 @@
 <div  >
+  <img src="https://github.com/user-attachments/assets/fb09d019-69ac-4017-86e2-1de108e10bfd" width="250px"/>
   <img src="https://github.com/user-attachments/assets/a6132c9a-e9cc-4036-babb-76303662b8a1" width="250px"/>
+  <img src="https://github.com/user-attachments/assets/ce49ae1e-e0ad-474e-a10d-6107fffa00cd" width="250px"/>
+
 <div/>
 # Welcome to your Expo app 👋
 
