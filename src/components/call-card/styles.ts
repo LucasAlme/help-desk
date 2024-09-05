@@ -10,7 +10,7 @@ import styled from "styled-components/native";
 interface CardStatus {
   status: "Finished" | "Open";
 }
-export const ContainerCard = styled.View<CardStatus>`
+export const ContainerCard = styled.TouchableOpacity<CardStatus>`
   background-color: ${colors.white};
   width: 100%;
   height: 120px;
@@ -40,9 +40,7 @@ export const RowContainer = styled.View`
   justify-content: space-between;
 `;
 
-export const HourGlass = styled(MaterialIcons).attrs({
-  size: 24,
-})`
+export const HourGlass = styled(MaterialIcons).attrs({})`
   color: ${colors.openFilter};
 `;
 
@@ -53,8 +51,6 @@ export const IconDescription = styled(Feather)`
 export const CrossHair = styled(MaterialCommunityIcons)`
   color: ${colors.descriptionTitle};
 `;
-export const CheckIcon = styled(Ionicons).attrs({
-  size: 24,
-})`
+export const CheckIcon = styled(Ionicons).attrs({})`
   color: ${colors.purple};
 `;

@@ -143,3 +143,33 @@ export const ContainerCall = styled.View`
   padding-horizontal: 20px;
   margin-bottom: 20px;
 `;
+
+export const TitleDetailsModal = styled.Text`
+  align-self: center;
+  font-size: 20px;
+  font-weight: bold;
+`;
+
+export const CallStatus = styled.View`
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding-vertical: 30px;
+`;
+
+export const DashText = styled.Text`
+  color: ${colors.descriptionTitle};
+`;
+
+export const SubTitle = styled.Text`
+  color: ${colors.descriptionTitle};
+  font-size: 14px;
+  padding-bottom: 3px;
+`;
+
+export const InformationContent = styled.View`
+  padding-horizontal: 20px;
+  padding-vertical: 5px;
+`;
+
+export const Description = styled.Text``;

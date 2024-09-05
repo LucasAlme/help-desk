@@ -3,4 +3,5 @@ export interface CallInterface {
   date: string;
   status: "Open" | "Finished";
   number: string;
+  description: string;
 }
